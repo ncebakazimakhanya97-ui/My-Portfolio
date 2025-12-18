@@ -11,4 +11,4 @@ AI Resume Builder – https://github.com/ncebakazimakhanya97-ui/AI-Resume-builde
  
 AI LearnMate Chatbot – https://github.com/ncebakazimakhanya97-ui/AI-LearnMate-Chatbot
 
-Sentimental Dashboard – 
+Sentimental Dashboard – https://github.com/ncebakazimakhanya97-ui/sentiment-analysis-dashboard
